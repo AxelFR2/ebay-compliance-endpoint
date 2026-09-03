@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+PartsApiManager/
+EbayComplianceEndpoint.Tests/
+build-verify/
+TEMP/
+*.md
+*.sln
+.vs/
+.git/
